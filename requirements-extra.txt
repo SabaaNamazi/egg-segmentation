@@ -1,0 +1,6 @@
+# Task 1 (Grounding DINO + SAM) and the scene-group split (ResNet-18)
+torch
+torchvision
+transformers
+# Task 4: downloading the video
+yt-dlp

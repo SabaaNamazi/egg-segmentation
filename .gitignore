@@ -1,0 +1,7 @@
+data/
+dataset.zip
+outputs/
+*.mp4
+__pycache__/
+.venv/
+.ipynb_checkpoints/

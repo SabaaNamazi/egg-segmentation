@@ -1,0 +1,8 @@
+# core (Tasks 2, 3 and 4)
+numpy
+scipy
+opencv-python
+pandas
+matplotlib
+scikit-learn
+pillow
