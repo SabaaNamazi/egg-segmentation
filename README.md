@@ -115,15 +115,6 @@ has Egg 1 in red and Egg 2 in green. The video settings (candidate minimum area 
 blobs, the shirt and logo filters) were set for this video; see the report for the trials that led
 to them.
 
-## Notes and limitations
-
-- The dev/eval split is by scene group, so near-identical scenes are never on both sides. The
-  eval split was scored once, with the frozen pipeline.
-- Identity in the video is inferred from position and continuity because the two eggs look the
-  same; it is not checked against a ground truth.
-- More limitations (pale-egg assumption, extra blobs next to correct eggs, partial masks) are in
-  the report.
-
 ## AI tools
 
 I used Claude (Anthropic) as a coding and analysis assistant in all four tasks: to compare
