@@ -4,7 +4,7 @@ Segmentation of eggs with a pretrained model (Task 1), with classical image proc
 the evaluation of the classical method against the pretrained one (Task 3), and tracking of two
 eggs in a video (Task 4).
 
-- **Report (PDF):** [`report/report.pdf`](report/report.pdf)
+- **Report (PDF):** [`report/report.pdf`](report/egg_segmentation_report.pdf)
 - **Tracked video (public Google Drive link):** https://drive.google.com/file/d/1xBU2eQbkeQ98u3YnsAMKMuvQ8GlEF2BZ/view?usp=sharing
 
 ## Results in short
